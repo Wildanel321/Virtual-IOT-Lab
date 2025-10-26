@@ -8,7 +8,7 @@
 
 **Virtual IoT Lab** adalah simulator IoT interaktif berbasis web yang memungkinkan Anda belajar konsep ESP32, sensor, dan pemrograman mikrokontroler secara visual tanpa perangkat fisik.
 
-![Virtual IoT Lab Preview](https://via.placeholder.com/800x400/0a0e27/00d9ff?text=Virtual+IoT+Lab+Preview)
+
 
 ---
 
